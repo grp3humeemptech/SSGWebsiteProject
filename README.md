@@ -1,0 +1,2 @@
+# SSGWebsiteProject
+GitHub Pages
